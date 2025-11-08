@@ -1,5 +1,13 @@
 # @buape/carbon
 
+## 0.13.1
+
+### Patch Changes
+
+- 0ba80ae: fix: User#createDm took a userId parameter instead of using User#id
+- 660e2b9: chore(deps): update dependencies
+- eff69b9: feat: add voice plugin with gateway adapter
+
 ## 0.13.0
 
 ### Minor Changes
